@@ -4,4 +4,4 @@
 2 Cargamos los datos transformados a postgresql.<br>
 3 Creamos la API resolviendo las consultas solicitadas.<br>
 4 Hacemos deploy en la nube de Google Cloud PLatform. <br>
-5 La API esta disponible en el siguiente enlace http://34.132.107.183/docs#/ <br>
+
